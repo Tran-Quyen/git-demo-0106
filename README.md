@@ -43,3 +43,22 @@ gitk
 ```
 git diff <commit_id>
 ```
+
+### Xem cac nhanh hien hanh
+
+```
+git branch
+```
+
+### Tao nhanh va chuyen sang nhanh do
+
+```
+git checkout -b <branch_name>
+```
+
+### Chuyen nhanh
+
+```
+git checkout <branch_name>
+```
+
