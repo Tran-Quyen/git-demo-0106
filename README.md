@@ -28,3 +28,18 @@ git log
 git log --oneline
 ```
 
+### Xem thong tin chi tiet thay doi commit
+
+```
+git show <commit_id>
+```
+
+```
+gitk
+```
+
+### So sanh su thay doi code truoc va sau commit
+
+```
+git diff <commit_id>
+```
