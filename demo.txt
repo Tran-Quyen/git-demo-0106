@@ -1,5 +1,5 @@
  1 - Đặng Trần Quyền - Position: Lead
- 2 - Tuong Duy Anh - Position: Student
+ 2 - Tuong Duy Anh - Position: Student - school: DHYD-TP.HCM
  3 - Đinh Quang Huy - Position: Student
 
 
