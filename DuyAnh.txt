@@ -1,2 +1,4 @@
 Name: Tuong Duy Anh
-School: University 
+School: University of Medicine & Pharmacy HCMC
+Age: 25
+Job: Medical Representative
