@@ -1,1 +1,4 @@
 lam-phung-giang
+birth day:29022000
+phuc yen-vinh phuc
+email:gianglampanda1@gmail.com
