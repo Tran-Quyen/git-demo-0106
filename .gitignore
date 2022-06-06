@@ -1,0 +1,4 @@
+# Help us for not commit folder and file (not neccessery)
+# Secure
+/node_modules
+.env

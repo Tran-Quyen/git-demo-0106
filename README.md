@@ -62,3 +62,40 @@ git checkout -b <branch_name>
 git checkout <branch_name>
 ```
 
+### Dong bo code tu remote repo ve local repo
+
+```
+git pull
+```
+
+```
+git pull origin master
+```
+
+### Sao chep code tu remote repo ve local repo
+
+```
+git fetch <branch_name>
+```
+
+```
+git pull origin <branch_name>
+```
+
+### Dua trang thai cua file tu Staged change => Change
+
+```
+git reset <file_name>
+```
+
+```
+git reset
+```
+
+### Backup commit ve commit cu (old version)
+## Note: Han che xai, nen tao commit moi de fix commit loi
+
+```
+git revert <commit_id>
+```
+
