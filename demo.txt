@@ -1,5 +1,6 @@
  1 - Đặng Trần Quyền - Position: Lead
- 2 - Tuong Duy Anh - Position: Student - School: DHYD-TP.HCM - Working as Medical Representative at Otsuka
+ 2 - Tuong Duy Anh - Position: Student
  3 - Đinh Quang Huy - Position: Student
+ - Fixed this bug
 
 
