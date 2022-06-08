@@ -116,7 +116,11 @@ git revert <commit_id>
 8. Can tao PR khac de fix PR truoc (it gap)
 
 ### Resolve Conflict:
-- Method 1: Use Rebase
+#### When will conflicts happen?
+1. Change same file + same line
+2. A deleted file X, B modified file X
+
+#### Method 1: Use Rebase
 + Checkout ve master + pull code moi nhat ve
 $ git co master
 $ git pull
@@ -132,7 +136,7 @@ $ git log --oneline
 + Push len github
 $ git push origin <conflict_branch> -f
 
-- Method 2: Using merge
+##### Method 2: Using merge
 + Checkout ve master + pull code moi nhat ve
 $ git co master
 $ git pull
