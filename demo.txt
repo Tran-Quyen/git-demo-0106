@@ -1,0 +1,7 @@
+ 1 - Đặng Trần Quyền - Position: Lead
+ 2 - Tưởng Duy Anh - Position: Student
+ 3 - Đinh Quang Huy - Position: Student
+ 4 - Đỗ Quốc Huy - Position: Student
+ - Fixed this bug
+
+
